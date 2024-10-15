@@ -1,0 +1,7 @@
+IF
+  Global("S#MakeKWolf","AR0511",0)
+THEN
+  RESPONSE #100
+    CreateCreature("KWolf",[1064.142],07)
+    SetGlobal("S#MakeKWolf","AR0511",1)
+END

@@ -1,0 +1,341 @@
+@0  = ~KWolf - un nuovo NPC (WeiDU)~
+@1  = ~Stivali dalla Punta d'Acciaio~
+@2  = ~Questi stivali sono ricoperti d'acciaio per proteggere il piede di chi li indossa. Possono essere utili anche nel combattimento corpo a corpo.
+
+STATISTICHE:
+
+Danno: bonus +2 quando l'attacco é con i pugni(e con i piedi)
+Peso:  4~
+@3  = ~Guanti~
+@4  = ~Guanti di ????~
+@5  = ~I guanti di solito sono di pelle e i guanti migliori di tutti sono quelli incantati magicamente.
+
+Utilizzabile da:
+Tutti
+Guanti della Punizione Auto-Inflitta:
+L'originale possessore di questi guanti era un mago talmente potente che alla fine diventò mentalmente instabile. Il suo principale difetto mentale era quello di darsi delle punizioni in faccia ogni volta che pensava di essere stato "malvagio". Con il tempo, questi guanti presero l'abitudine di picchiare e da allora in poi fu uno scherzo per loro divertirsi su ogni avventuriero che gli capitava.
+
+STATISTICHE:
+
+Una volta indossati i guanti, il possessore inizia a "picchiarsi" e possono essere rimossi solo con un incantesimo di Scaccia Maledizione.~
+@6  = ~Piccolo oggetto di metallo~
+@7  = ~Nocche di Ottone~
+@8  = ~Questo é un piccolo pezzo di metallo che non hai mai visto.~
+@9  = ~Nocche di Ottone:
+Una nocca di metallo indurita ricoperta di acciaio. Protegge la tua mano e fa più danno in un combattimento a mani nude.
+
+STATISTICHE:
+
+Danno: bonus +5 quando l'attacco avviene con i pugni
+
+Peso: 1
+Utilizzabile da:
+ Tutti~
+@10 = ~Pozione~
+@11 = ~BUFFOUT!!(r)~
+@12 = ~Le pozioni, di solito, vengono trovate in contenitori di ceramica, cristallo, vetro o fiale. Le bottigliette o gli altri recipienti normalmente contengono abbastanza fluido in modo da fornire a una persona una dose completa sufficiente per ottenere gli effetti della pozione.~
+@13 = ~Buffout:
+L'etichetta su questa fiala descrive il contenuto di questo prodotto chimico extra planare come "Steroidi altamente avanzati. Incrementano la forza, la resistenza e i riflessi." Gli effetti di questa fiala sono veramente meravigliosi, ma le conseguenze successive ne potrebbero scoraggiare l'uso abituale.
+
+STATISTICHE:
+
+Forza: bonus +2
+Destrezza: bonus +2
+Costituzione: bonus +3
+Durata 24 ore.
+
+Effetti Collaterali:
+Dopo 24 ore dall'assunzione, il fisico é terribilmente affaticato al punto da perdere:
+Forza: -2
+Destrezza: -3
+Costituzione: -2
+Gli effetti collaterali svaniscono dopo 9 ore.
+
+Peso: 0 
+Utilizzabile da:
+ Tutti~
+@14 = ~Gulp!~
+@15 = ~Risucchio di Energia~
+@16 = ~Lunga Asta di Metallo~
+@17 = ~Il Pungolatore di Bestiame~
+@18 = ~Questa asta di metallo ha uno strano congegno attaccato.~
+@19 = ~Il Pungolatore di Bestiame:
+Si tratta del "Il Miglior Amico del Contadino" modello pungolatore di bestiame prodotto dalla Wattz Electronics.
+
+STATISTICHE:
+
+Danno: 2D2 Elettrico
+Il bersaglio deve effettuare un tiro salvezza contro pietrificazione/metamorfosi a -5 o rimanere stordito per 7 secondi.
+
+Peso: 5
+Fattore Velocità: 4
+Tipo di Competenza: Mazza
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Utilizzabile da:
+ Tutti~
+@21 = ~Coltello da Lancio~
+@23 = ~Coltello da Lancio:
+Quest'arma proviene da un piano di esistenza molto lontano dal Primo Piano Materiale. E' modellato con un metallo di altissima qualità che non hai mai visto. Sul suo manico c'è una piccola descrizione di questo coltello, benché alcune parole ti siano sconosciute:
+"Bilanciato in modo specifico per il lancio. Fatto di titanio, ed affilato con il laser."
+
+STATISTICHE:
+
+Attacchi per round: bonus +1
+
+Danno:  1D5+2
+Tipo di Danno: proiettile (da punta)
+Peso: 0
+Fattore Velocità: 0
+Tipo di Competenza: Pugnale
+Tipo: ad una mano
+Richiede: 3 alla Forza
+Not Utilizzabile da:
+ Chierico~
+@24 = ~Pacco di Strumenti~
+@25 = ~Ampio Set di Strumenti per Scassinare Serrature~
+@26 = ~Questo pacco contiene un assortimento di arnesi.~
+@27 = ~Ampi Strumenti per Scassinare Serrature:
+Un ampio Set di Strumenti per Scassinare Serrature. Include tutti gli strumenti necessari e tutti i tipi di chiavi inglesi per scassinare ed aprire serrature. Questo set include anche diversi utensili speciali per aprire altri difficoltosi meccanismi meccanici chiusi.
+
+STATISTICHE
+
+Scassinare Serrature: bonus +45
+
+Peso: 2
+Utilizzabile da:
+ Tutti (sebbene solo il ladro ne può trarre tutti i benefici)~
+@28 = ~Oggetto Circolare di Metallo~
+@29 = ~Granata da Lancio~
+@30 = ~Questo oggetto é fatto di metallo, ha un peso leggero e sembra essere un eccellente fermacarte.~
+@31 = ~Granata da Lancio:
+Una comune granata ridotta in frantumi. Contiene una piccola quantità di potente esplosivo, il contenitore stesso è stato danneggiato. Si prende la mira e si lancia. Esplode al contatto.  
+
+STATISTICHE:
+
+Danno: 6D6 area di danno
+Raggio di Attacco: 19 metri circa
+
+Peso: 1
+Utilizzabile da:
+ Tutti ~
+@33 = ~Balestra Superiore +5~
+@35 = ~Balestra Superiore +5:
+Questa balestra è di estrema qualità, evidentemente proviene da un altro piano di esistenza, è fatta di materiali con cui non hai molta familiarità. Il solo segno impresso è un nome "Gordon Freeman" scalfito da una parte ed un numero, che si presume sia quello delle persone uccise con quest'arma.
+
+
+STATISTICHE:
+
+Attacchi per round: bonus +2
+Intelligenza: bonus +3
+
+THACO: bonus +5
+Danno:  +7 (proiettile)
+Peso: 7
+Fattore Velocità: 3
+Tipo di Competenza: Balestra
+Tipo: a due mani
+Richiede: 10 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico~
+@36 = ~Maschera Strana~
+@37 = ~Elmo dall'Aspetto strano~
+@38 = ~Questa maschera ha una forma insolita.~
+@39 = ~Elmo dall'Aspetto strano:
+Questo elmo sembra far parte di un abito. Sebbene non hai idea di che razza di abito possa essere.
+
+STATISTICHE:
+
+Fornisce l'Infravisione e protegge contro gli attacchi con lo sguardo.
+
+Peso: 5
+Non Utilizzabile da:
+Mago
+Bardo
+Ladro~
+@40 = ~Santa Granata~
+@41 = ~Santa Granata d'Antiochia:
+Una santa reliquia di potere divino. E' un eccellente tipo di arma portatile, anti-uomo. Si prende la mira e si lancia. Esplode al contatto.  
+
+STATISTICHE:
+
+Danno: 10D12 area di danno
+Raggio di Attacco: 19 metri circa.
+
+Peso: 1
+Utilizzabile da:
+ Tutti ~
+@42 = ~Set di Strumenti per Scassinare Serrature~
+@43 = ~Set di Strumenti per Scassinare Serrature:
+Un Set di Strumenti per Scassinare Serrature. Include tutti gli strumenti necessari e tutti i tipi di chiavi inglesi per scassinare ed aprire serrature. 
+STATISTICHE
+
+Scassinare Srrature: +30 bonus
+
+Peso: 1
+Utilizzabile da:
+ Tutti (sebbene solo il ladro ne può trarre tutti i benefici)~
+@44 = ~MENTATS(r)~
+@45 = ~Mentats:
+Questa piccolo scatola decorate contiene delle pillole rosse che sono, secondo la descrizione sul retro della confezione, "MENTATS: Alteratore chimico della mente, incrementa la memoria mettendo in relazione le sue funzioni cerebrali con altri processi mentali, velocizzandoli." Gli effetti che ha sulla mente sono veramente notevoli, ma le conseguenze successive ne potrebbero scoraggiare l'uso abituale.
+
+STATISTICHE:
+
+Intelligenza: +2 bonus
+Saggezza: +2 bonus
+Carisma: +1 bonus
+Durata 24 ore.
+
+Effetti Collaterali:
+Dopo 24 ore dal suo utilizzo, il cervello si spegne cessando le sue funzioni. La mente smette totalmente di lavorare:
+
+Intelligenza: -4
+Saggezza: -4
+Carisma: -3
+Gli effetti collaterali durano 9 ore.
+
+Peso: 0 
+Utilizzabile da:
+ Tutti~
+@46 = ~Occhiali~
+@47 = ~Occhiali da Sole a Specchio~
+@48 = ~Questi occhiali non appartengono al Primo Piano Materiale.~
+@49 = ~Occhiali da Sole a Specchio:
+Questo é un paio di occhiali alla moda e sembrano anche letali. Il solo averli nel tuo inventario ti fa sentire tranquillo.
+
+STATISTICHE:
+
+Carisma: +1 bonus mentre indossati
+
+Peso: 0
+Utilizzabile da:
+ Tutti~
+@50 = ~Granata al Plasma~
+@51 = ~Granata al Plasma:
+Si tratta di plasma magneticamente sigillato, con detonante esplosivo. Al contatto crea un'esplosione di plasma surriscaldato. Si prende la mira e si lancia. 
+
+STATISTICHE:
+
+Danno: 8D8 area di danno
+Raggio di Attacco: 19 metri circa.
+
+Peso: 1
+Utilizzabile da:
+ Tutti~
+@53 = ~Armatura di Piastre Completa dalle Origini Sconosciute~
+@55 = ~Questa armature di piastre completa sembra essere stata create con lo stesso metallo liscio nero trovato sulla Spada Lunga e sulla Katana dalle origini Sconosciute. E' estremamente leggera e ha una terribilmente bassa CA.
+
+STATISTICHE:
+
+Classe Armatura: -3
+Peso: 10
+Richiede: 4 alla Forza
+Non Utilizzabile da:
+ Bardo
+ Druido
+ Mago
+ Ladro~
+@56 = ~RAD-X (r)~
+@57 = ~Rad-X:
+"L'Anti-radiazione chimica deve essere presa prima dell'esposizione. Non si conoscono gli effetti collaterali." Sebbene l'iscrizione sulla fiala accenna anche alla protezione contro uno sconosciuto disturbo, queste pillole extra planari fanno diventare chi le prende resistente ai Danni causati dalla Magia.
+
+STATISTICHE:
+
+Danni causati dalla Magia: +50% di resistenza
+Durata: 1 ora
+
+Peso: 0
+Utilizzabile da:
+ Tutti~
+@58 = ~Piccolo Congegno~
+@59 = ~Mimetizzatore - Stealth Boy(r)~
+@60 = ~Questo congegno sembra adatto ad essere messo sul polso.~
+@61 = ~Mimetizzatore:
+E' un RobCo Mimetizzatore 3001, un congegno personale di furtività. Genera un campo regolare che trasmette la luce riflessa di un oggetto da un'altra parte.
+
+STATISTICHE:
+
+Rende il possessore invisibile spingendo il bottone.
+
+Peso: 1
+Utilizzabile da:
+ Tutti~
+@62 = ~Invisibile~
+@63 = ~Illusione Dissolta~
+@64 = ~Piccolo Oggetto di Metallo~
+@65 = ~Nocche a Punta~
+@66 = ~Nocche a Punta:
+Una versione migliorata delle classiche Nocche di Ottone. Le Nocche a Punta fanno più danno, lacerando la pelle del tuo avversario in un combattimento a mani nude.
+
+STATISTICHE:
+
+Danno: bonus +7 quando l'attacco avviene con i pugni
+
+Peso: 1
+Utilizzabile da:
+ Tutti~
+@67 = ~StimPak~
+@68 = ~StimPak:
+"Un prodotto chimico di guarigione. Quando iniettato, il prodotto provvede immediatamente a curare le ferite minori." Appena posato su una vena, questo piccolo congegno automaticamente inietta il suo contenuto. Un invenzione extra planare davvero meravigliosa.
+
+STATISTICHE:
+
+Guarisce 14 Punti Ferita per dose
+
+Peso: 0
+Utilizzabile da:
+ Tutti~
+@69 = ~ah...~
+@70 = ~Guarito~
+@72 = ~Spada Lunga dalle Origini Sconosciute~
+@74 = ~Questa spada non pesa praticamente nulla e sembra essere stata forgiata(?) con un metallo liscio nero. La lama non sembra arrugginirsi o comunque non si spunta mai. Purtroppo, tutti i tentativi di scoprire le reali origini di questa lama sono falliti. Tutto quello che si conosce è che la spada fa notevoli danni contro tutte le creature sia magiche che non magiche.
+
+STATISTICHE:
+
++1 di attacchi per round
+ 
+THAC0: +3
+Danno: 3D12
+Tipo di Danno: tagliente
+Peso: 1
+Fattore Velocità:  0
+Tipo di Competenza: Spada Lunga
+Tipo: ad una mano
+Richiede: 3 alla Forza
+Non Utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+@76 = ~Katana dale origini Sconosciute~
+@78 = ~Questa katana non pesa praticamente nulla e sembra essere stata forgiata(?) con un metallo liscio nero. La lama non sembra arrugginirsi o comunque non si spunta mai. Purtroppo, tutti i tentativi di scoprire le reali origini di questa lama sono falliti. Tutto quello che si conosce è che la spada fa notevoli danni contro tutte le creature sia magiche che non magiche.
+
+STATISTICHE:
+
++1 di attacchi per round
+ 
+THAC0: bonus +3
+Danno: 3D12
+Tipo di Danno: tagliente
+Peso: 1
+Fattore Velocità: 0
+Tipo di Competenza: Katana
+Tipo: ad una mano
+Richiede: 3 alla Forza
+Non Utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+@79 = ~Killing Wolf~
+@80 = ~Solo un ultima domanda, signore, se posso.~
+@81 = ~Articoli di Killing Wolf~
+@82 = ~Stivali~
+@83 = ~Gli stivali vengono di solito fatti a mano dai ciabattini. Gli stivali comuni sono fatti utilizzando una forma, ma quelli di buona qualità sono fatti su misura per il piede di chi li indosserà. 
+
+STATISTICHE:
+
+Peso: 4~
+@84 = ~I guanti di solito sono di pelle e i guanti migliori di tutti sono quelli incantati magicamente.
+
+Utilizzabile da:
+Tutti~

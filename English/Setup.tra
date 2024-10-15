@@ -1,0 +1,342 @@
+@0  = ~KWolf - new NPC (WeiDU)~
+@1  = ~Steel-Toe Boots~
+@2  = ~These boots have a piece of steel to protect the toes of the wearer. They also help in hand-to-hand combat.
+
+STATISTICS:
+
+Damage: +2 bonus when attacking with fists(feet)
+Weight:  4~
+@3  = ~Gloves~
+@4  = ~Gloves of ????~
+@5  = ~Gloves are usually made from leather and the best gloves of all have magical enchantments upon them.
+
+Usable by:
+All
+Gloves of Self-Inflicting Punishment:
+The original wearer of these gloves was a mage whose power was so great, he eventually became mentally unstable. His main mental flaw was giving himself punches in the face whenever he thought he had been a "bad boy". Over time, these gloves picked up that habit and have been an ideal joke to play on an adventurer ever since.
+
+STATISTICS:
+
+Once equipped, the wearer begins to "kick his own ass" and cannot be removed without a remove curse spell.~
+@6  = ~Small metal object~
+@7  = ~Brass Knuckles~
+@8  = ~This is a small piece of metal fashioned unlike you have ever seen.~
+@9  = ~Brass Knuckles:
+A hardened knuckle grip that is actually made out of steel. They protect your hand and do more damage in unarmed combat.
+
+STATISTICS:
+
+Damage: +5 bonus when attacking with fists
+
+Weight: 1
+Usable By:
+ All~
+@10 = ~Potion~
+@11 = ~BUFFOUT!!®~
+@12 = ~Potions are typically found in ceramic, crystal, glass, or metal flasks or vials. Flasks or other containers generally contain enough fluid to provide one person with one complete dose to achieve the effects of the potion.~
+@13 = ~Buffout:
+The label on this vial describes the contents of this extra-planar chemical as "Highly advanced steroids. While in effect, they increase strength, endurance and reflexes." The effects upon the user are truly wondrous, but the after effects may disuade habitual use.
+
+STATISTICS:
+
+Strength: +2 bonus
+Dexterity: +2 bonus
+Constitution: +3 bonus
+Lasts 24 hrs.
+
+Side Effects:
+After the 24 hrs. has passed, the users body is terribly fatigued to the point of attribute loss:
+Strength: -2
+Dexterity: -3
+Constitution: -2
+Side effects last for 9 hrs.
+
+Weight: 0 
+Usable By:
+ All~
+@14 = ~Gulp!~
+@15 = ~Energy Drain~
+@16 = ~Long Metal Shaft~
+@17 = ~Cattle Prod~
+@18 = ~This metal shaft has an odd device attached to it.~
+@19 = ~Cattle Prod:
+A "Farmer's Best Friend" model cattle prod from Wattz Electronics.
+
+STATISTICS:
+
+Damage:  2D2 Electrical
+Target must save vs. petrification/polymorph at -5 or be stunned for 7 seconds.
+
+Weight: 5
+Speed Factor: 4
+Proficiency Type: Mace
+Type:  1-handed
+Requires: 5 Strength
+Usable By:
+ All~
+@21 = ~Throwing Knife~
+@23 = ~Throwing Knife:
+This weapon is from a plane of existance far removed from the Prime Material Plane. It is fashioned of the highest quality metal that you have ever seen. Though some words are unknown to you, it gives a short description of itself on the handle:
+"Balanced specifically for throwing. Made of titanium, and laser sharpened."
+
+STATISTICS:
+
+Attacks per round: +1 bonus
+
+Damage:  1D5+2
+Damage type:   missile (piercing)
+Weight: 0
+Speed Factor: 0
+Proficiency Type: Dagger
+Type:  1-handed
+Requires: 3 Strength
+Not Usable By:
+ Cleric~
+@24 = ~Tool Bundle~
+@25 = ~Expanded Lockpick Set~
+@26 = ~This bundle contains an odd assortment of tools.~
+@27 = ~Expanded Lockpicks:
+An advanced set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks. This set also includes some special tools for more difficult mechanical locking mechanisms.
+
+STATISTICS
+
+Open Locks:  +45 bonus
+
+Weight: 2
+Usable By:
+ All (though only thieves gain any benefit)~
+@28 = ~Round Metal Object~
+@29 = ~Frag Grenade~
+@30 = ~This object is made of metal, is lightweight and seems to be an excellent paperweight.~
+@31 = ~Frag Grenade:
+A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Pull pin and throw. Explodes on contact.  
+
+STATISTICS:
+
+Damage: 6D6 area damage
+Attack Range: 65 ft.
+
+Weight: 1
+Usable By:
+ All ~
+@33 = ~Advanced Crossbow +5~
+@35 = ~Advanced Crossbow +5:
+This crossbow is of an extremely high quality, obviously from another plane of existence, it is made from materials you are not familiar with. The only possible makers' marks are the name "Gordon Freeman" scratched on the side and a number of what you assume are tally marks for kills made.
+
+
+STATISTICS:
+
+Attacks per round: +2 bonus
+Intelligence:  +3 bonus
+
+THACO:  +5 bonus
+Damage:  +7 (missile)
+Weight: 7
+Speed Factor: 3
+Proficiency Type: Crossbow
+Type:  2-handed
+Requires: 10 Strength
+Not Usable By:
+ Druid
+ Cleric~
+@36 = ~Odd Mask~
+@37 = ~Odd-looking Helmet~
+@38 = ~This mask is of an unusual design.~
+@39 = ~Odd-looking Helmet:
+This helmet appears to be part of an entire suit. Although you have no idea what kind of suit that would be.
+
+STATISTICS:
+
+Provides Infravision and protection against gaze attacks.
+
+Weight: 5
+Not Usable By:
+Mage
+Bard
+Thief~
+@40 = ~Holy Hand Grenade~
+@41 = ~Holy Hand Grenade of Antioch:
+A Holy relic of godly might. It is the greatest hand held, anti-personnel weapon of its kind. Pull pin and throw. Explodes on contact.  
+
+STATISTICS:
+
+Damage: 10D12 area damage
+Attack Range: 65 ft.
+
+Weight: 1
+Usable By:
+ All ~
+@42 = ~Lockpick Set~
+@43 = ~Lockpicks:
+A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.
+
+STATISTICS
+
+Open Locks:  +30 bonus
+
+Weight: 1
+Usable By:
+ All (though only thieves gain any benefit)~
+@44 = ~MENTATS®~
+@45 = ~Mentats:
+This small decorated box contains red pills which are, according to the inscription on the back, "MENTATS: Mind-altering chems, increases memory related functions and speeds other mental processes." The mental effects upon the user are truly wondrous, but the after effects may disuade habitual use.
+
+STATISTICS:
+
+Intelligence: +2 bonus
+Wisdom: +2 bonus
+Charisma: +1 bonus
+Lasts 24 hrs.
+
+Side Effects:
+After the 24 hrs. has passed, the users brain is burnt out mush. The mind is a terrible thing to waste:
+
+Intelligence: -4
+Wisdom: -4
+Charisma: -3
+Side effects last for 9 hrs.
+
+Weight: 0 
+Usable By:
+ All~
+@46 = ~Glasses~
+@47 = ~MirrorShades~
+@48 = ~These glasses are not of the Prime Material Plane.~
+@49 = ~MirrorShades:
+This is a pair of fashionable and deadly-looking mirrored shades. Just having them in your inventory makes you feel cool.
+
+STATISTICS:
+
+Charisma: +1 bonus while equipped
+
+Weight: 0
+Usable By:
+ All~
+@50 = ~Plasma Grenade~
+@51 = ~Plasma Grenade:
+A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact.  Pull pin and throw.
+
+STATISTICS:
+
+Damage: 8D8 area damage
+Attack Range: 65 ft.
+
+Weight: 1
+Usable By:
+ All~
+@53 = ~Full Plate Mail of Unknown Origin~
+@55 = ~This full plate mail appears to be constructed of the same flat black metal found on the Long Sword and Katana of Unknown Origin. It is extemely light and has a frightfully low AC.
+
+STATISTICS:
+
+Armor Class: -3
+Weight: 10
+Requires: 4 Strength
+Not Usable By:
+ Bard
+ Druid
+ Mage
+ Thief~
+@56 = ~RAD-X ®~
+@57 = ~Rad-X:
+"Anti-radiation chems to be taken before exposure. No known side effects." Although the inscription on the vial infers protection against an unheard of ailment, these extra-planar pills make the user resistant to Magic Damage.
+
+STATISTICS:
+
+Magic Damage: +50% resistance
+Duration:  1 hour
+
+Weight: 0
+Usable By:
+ All~
+@58 = ~Small Device~
+@59 = ~Stealth Boy®~
+@60 = ~This device appears to strap on to your wrist.~
+@61 = ~Stealth Boy:
+A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.
+
+STATISTICS:
+
+Makes wearer invisible by the push of a button.
+
+Weight: 1
+Usable By:
+ All~
+@62 = ~Invisible~
+@63 = ~Illusion Dispelled~
+@64 = ~Small Metal Object~
+@65 = ~Spiked Knuckles~
+@66 = ~Spiked Knuckles:
+An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat.
+
+STATISTICS:
+
+Damage: +7 bonus when attacking with fists
+
+Weight: 1
+Usable By:
+ All~
+@67 = ~StimPak~
+@68 = ~StimPak:
+"A healing chem. When injected, the chem provides immediate healing of minor wounds." When placed against a vein, this small device automatically injects  the user with its contents. A true marvel of extra-planar invention.
+
+STATISTICS:
+
+Heals 14 HP per dose
+
+Weight: 0
+Usable By:
+ All~
+@69 = ~ah...~
+@70 = ~Healed~
+@72 = ~Long Sword of Unknown Origin~
+@74 = ~This sword weighs practically nothing and appears to be forged(?) of an unknown flat black metal. The blade never seems to rust or become dull in any way. Unfortunately, all attempts to determine the origin of the blade have failed. All that is known is that the sword does outstanding damage against any magical or non-magical creature.
+
+STATISTICS:
+
++1 attacks per round
+ 
+THAC0: +3
+Damage:  3D12
+Damage Type: slashing
+Weight:  1
+Speed Factor:  0
+Proficiency Type:  Long Sword
+Type:  1-handed
+Requires:  3 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage~
+@76 = ~Katana of Unknown Origin~
+@78 = ~This katana weighs practically nothing and appears to be forged(?) of an unknown flat black metal. The blade never seems to rust or become dull in any way. Unfortunately, all attempts to determine the origin of the blade have failed. All that is known is that it does outstanding damage against any magical or non-magical creature.
+
+STATISTICS:
+
++1 attacks per round
+ 
+THAC0: +3 bonus
+Damage:  3D12
+Damage type:  slashing
+Weight:  1
+Speed Factor: 0
+Proficiency Type: Katana
+Type:  1-handed
+Requires:3 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage~
+@79 = ~Killing Wolf~
+@80 = ~Всего один последний вопрос, Повелитель Карстон, если можно.~
+@81 = ~Killing Wolf's Wares~
+@82 = ~Boots~
+@83 = ~Boots are normally hand-made by cobblers.  Common boots are made by using a form, but good boots are designed for the foot of an individual. 
+
+STATISTICS:
+
+Weight:  4~
+@84 = ~Gloves are usually made from leather and the best gloves of all have magical enchantments upon them.
+
+Usable by:
+All~
