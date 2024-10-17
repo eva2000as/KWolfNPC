@@ -4,7 +4,7 @@
 
 STATISTICHE:
 
-Danno: bonus +2 quando l'attacco é con i pugni(e con i piedi)
+Danno: bonus +2 quando l'attacco ?con i pugni(e con i piedi)
 Peso:  4~
 @3  = ~Guanti~
 @4  = ~Guanti di ????~
@@ -13,16 +13,16 @@ Peso:  4~
 Utilizzabile da:
 Tutti
 Guanti della Punizione Auto-Inflitta:
-L'originale possessore di questi guanti era un mago talmente potente che alla fine diventò mentalmente instabile. Il suo principale difetto mentale era quello di darsi delle punizioni in faccia ogni volta che pensava di essere stato "malvagio". Con il tempo, questi guanti presero l'abitudine di picchiare e da allora in poi fu uno scherzo per loro divertirsi su ogni avventuriero che gli capitava.
+L'originale possessore di questi guanti era un mago talmente potente che alla fine divent?mentalmente instabile. Il suo principale difetto mentale era quello di darsi delle punizioni in faccia ogni volta che pensava di essere stato "malvagio". Con il tempo, questi guanti presero l'abitudine di picchiare e da allora in poi fu uno scherzo per loro divertirsi su ogni avventuriero che gli capitava.
 
 STATISTICHE:
 
 Una volta indossati i guanti, il possessore inizia a "picchiarsi" e possono essere rimossi solo con un incantesimo di Scaccia Maledizione.~
 @6  = ~Piccolo oggetto di metallo~
 @7  = ~Nocche di Ottone~
-@8  = ~Questo é un piccolo pezzo di metallo che non hai mai visto.~
+@8  = ~Questo ?un piccolo pezzo di metallo che non hai mai visto.~
 @9  = ~Nocche di Ottone:
-Una nocca di metallo indurita ricoperta di acciaio. Protegge la tua mano e fa più danno in un combattimento a mani nude.
+Una nocca di metallo indurita ricoperta di acciaio. Protegge la tua mano e fa pi?danno in un combattimento a mani nude.
 
 STATISTICHE:
 
@@ -45,7 +45,7 @@ Costituzione: bonus +3
 Durata 24 ore.
 
 Effetti Collaterali:
-Dopo 24 ore dall'assunzione, il fisico é terribilmente affaticato al punto da perdere:
+Dopo 24 ore dall'assunzione, il fisico ?terribilmente affaticato al punto da perdere:
 Forza: -2
 Destrezza: -3
 Costituzione: -2
@@ -68,7 +68,7 @@ Danno: 2D2 Elettrico
 Il bersaglio deve effettuare un tiro salvezza contro pietrificazione/metamorfosi a -5 o rimanere stordito per 7 secondi.
 
 Peso: 5
-Fattore Velocità: 4
+Fattore Velocit? 4
 Tipo di Competenza: Mazza
 Tipo: ad una mano
 Richiede: 5 alla Forza
@@ -76,7 +76,7 @@ Utilizzabile da:
  Tutti~
 @21 = ~Coltello da Lancio~
 @23 = ~Coltello da Lancio:
-Quest'arma proviene da un piano di esistenza molto lontano dal Primo Piano Materiale. E' modellato con un metallo di altissima qualità che non hai mai visto. Sul suo manico c'è una piccola descrizione di questo coltello, benché alcune parole ti siano sconosciute:
+Quest'arma proviene da un piano di esistenza molto lontano dal Primo Piano Materiale. E' modellato con un metallo di altissima qualit?che non hai mai visto. Sul suo manico c'?una piccola descrizione di questo coltello, bench?alcune parole ti siano sconosciute:
 "Bilanciato in modo specifico per il lancio. Fatto di titanio, ed affilato con il laser."
 
 STATISTICHE:
@@ -86,7 +86,7 @@ Attacchi per round: bonus +1
 Danno:  1D5+2
 Tipo di Danno: proiettile (da punta)
 Peso: 0
-Fattore Velocità: 0
+Fattore Velocit? 0
 Tipo di Competenza: Pugnale
 Tipo: ad una mano
 Richiede: 3 alla Forza
@@ -104,12 +104,12 @@ Scassinare Serrature: bonus +45
 
 Peso: 2
 Utilizzabile da:
- Tutti (sebbene solo il ladro ne può trarre tutti i benefici)~
+ Tutti (sebbene solo il ladro ne pu?trarre tutti i benefici)~
 @28 = ~Oggetto Circolare di Metallo~
 @29 = ~Granata da Lancio~
-@30 = ~Questo oggetto é fatto di metallo, ha un peso leggero e sembra essere un eccellente fermacarte.~
+@30 = ~Questo oggetto ?fatto di metallo, ha un peso leggero e sembra essere un eccellente fermacarte.~
 @31 = ~Granata da Lancio:
-Una comune granata ridotta in frantumi. Contiene una piccola quantità di potente esplosivo, il contenitore stesso è stato danneggiato. Si prende la mira e si lancia. Esplode al contatto.  
+Una comune granata ridotta in frantumi. Contiene una piccola quantit?di potente esplosivo, il contenitore stesso ?stato danneggiato. Si prende la mira e si lancia. Esplode al contatto.  
 
 STATISTICHE:
 
@@ -121,7 +121,7 @@ Utilizzabile da:
  Tutti ~
 @33 = ~Balestra Superiore +5~
 @35 = ~Balestra Superiore +5:
-Questa balestra è di estrema qualità, evidentemente proviene da un altro piano di esistenza, è fatta di materiali con cui non hai molta familiarità. Il solo segno impresso è un nome "Gordon Freeman" scalfito da una parte ed un numero, che si presume sia quello delle persone uccise con quest'arma.
+Questa balestra ?di estrema qualit? evidentemente proviene da un altro piano di esistenza, ?fatta di materiali con cui non hai molta familiarit? Il solo segno impresso ?un nome "Gordon Freeman" scalfito da una parte ed un numero, che si presume sia quello delle persone uccise con quest'arma.
 
 
 STATISTICHE:
@@ -132,7 +132,7 @@ Intelligenza: bonus +3
 THACO: bonus +5
 Danno:  +7 (proiettile)
 Peso: 7
-Fattore Velocità: 3
+Fattore Velocit? 3
 Tipo di Competenza: Balestra
 Tipo: a due mani
 Richiede: 10 alla Forza
@@ -175,7 +175,7 @@ Scassinare Srrature: +30 bonus
 
 Peso: 1
 Utilizzabile da:
- Tutti (sebbene solo il ladro ne può trarre tutti i benefici)~
+ Tutti (sebbene solo il ladro ne pu?trarre tutti i benefici)~
 @44 = ~MENTATS(r)~
 @45 = ~Mentats:
 Questa piccolo scatola decorate contiene delle pillole rosse che sono, secondo la descrizione sul retro della confezione, "MENTATS: Alteratore chimico della mente, incrementa la memoria mettendo in relazione le sue funzioni cerebrali con altri processi mentali, velocizzandoli." Gli effetti che ha sulla mente sono veramente notevoli, ma le conseguenze successive ne potrebbero scoraggiare l'uso abituale.
@@ -202,7 +202,7 @@ Utilizzabile da:
 @47 = ~Occhiali da Sole a Specchio~
 @48 = ~Questi occhiali non appartengono al Primo Piano Materiale.~
 @49 = ~Occhiali da Sole a Specchio:
-Questo é un paio di occhiali alla moda e sembrano anche letali. Il solo averli nel tuo inventario ti fa sentire tranquillo.
+Questo ?un paio di occhiali alla moda e sembrano anche letali. Il solo averli nel tuo inventario ti fa sentire tranquillo.
 
 STATISTICHE:
 
@@ -252,7 +252,7 @@ Utilizzabile da:
 @59 = ~Mimetizzatore - Stealth Boy(r)~
 @60 = ~Questo congegno sembra adatto ad essere messo sul polso.~
 @61 = ~Mimetizzatore:
-E' un RobCo Mimetizzatore 3001, un congegno personale di furtività. Genera un campo regolare che trasmette la luce riflessa di un oggetto da un'altra parte.
+E' un RobCo Mimetizzatore 3001, un congegno personale di furtivit? Genera un campo regolare che trasmette la luce riflessa di un oggetto da un'altra parte.
 
 STATISTICHE:
 
@@ -266,7 +266,7 @@ Utilizzabile da:
 @64 = ~Piccolo Oggetto di Metallo~
 @65 = ~Nocche a Punta~
 @66 = ~Nocche a Punta:
-Una versione migliorata delle classiche Nocche di Ottone. Le Nocche a Punta fanno più danno, lacerando la pelle del tuo avversario in un combattimento a mani nude.
+Una versione migliorata delle classiche Nocche di Ottone. Le Nocche a Punta fanno pi?danno, lacerando la pelle del tuo avversario in un combattimento a mani nude.
 
 STATISTICHE:
 
@@ -289,7 +289,7 @@ Utilizzabile da:
 @69 = ~ah...~
 @70 = ~Guarito~
 @72 = ~Spada Lunga dalle Origini Sconosciute~
-@74 = ~Questa spada non pesa praticamente nulla e sembra essere stata forgiata(?) con un metallo liscio nero. La lama non sembra arrugginirsi o comunque non si spunta mai. Purtroppo, tutti i tentativi di scoprire le reali origini di questa lama sono falliti. Tutto quello che si conosce è che la spada fa notevoli danni contro tutte le creature sia magiche che non magiche.
+@74 = ~Questa spada non pesa praticamente nulla e sembra essere stata forgiata(?) con un metallo liscio nero. La lama non sembra arrugginirsi o comunque non si spunta mai. Purtroppo, tutti i tentativi di scoprire le reali origini di questa lama sono falliti. Tutto quello che si conosce ?che la spada fa notevoli danni contro tutte le creature sia magiche che non magiche.
 
 STATISTICHE:
 
@@ -299,7 +299,7 @@ THAC0: +3
 Danno: 3D12
 Tipo di Danno: tagliente
 Peso: 1
-Fattore Velocità:  0
+Fattore Velocit?  0
 Tipo di Competenza: Spada Lunga
 Tipo: ad una mano
 Richiede: 3 alla Forza
@@ -308,7 +308,7 @@ Non Utilizzabile da:
  Chierico
  Mago~
 @76 = ~Katana dale origini Sconosciute~
-@78 = ~Questa katana non pesa praticamente nulla e sembra essere stata forgiata(?) con un metallo liscio nero. La lama non sembra arrugginirsi o comunque non si spunta mai. Purtroppo, tutti i tentativi di scoprire le reali origini di questa lama sono falliti. Tutto quello che si conosce è che la spada fa notevoli danni contro tutte le creature sia magiche che non magiche.
+@78 = ~Questa katana non pesa praticamente nulla e sembra essere stata forgiata(?) con un metallo liscio nero. La lama non sembra arrugginirsi o comunque non si spunta mai. Purtroppo, tutti i tentativi di scoprire le reali origini di questa lama sono falliti. Tutto quello che si conosce ?che la spada fa notevoli danni contro tutte le creature sia magiche che non magiche.
 
 STATISTICHE:
 
@@ -318,7 +318,7 @@ THAC0: bonus +3
 Danno: 3D12
 Tipo di Danno: tagliente
 Peso: 1
-Fattore Velocità: 0
+Fattore Velocit? 0
 Tipo di Competenza: Katana
 Tipo: ad una mano
 Richiede: 3 alla Forza
@@ -330,7 +330,7 @@ Non Utilizzabile da:
 @80 = ~Solo un ultima domanda, signore, se posso.~
 @81 = ~Articoli di Killing Wolf~
 @82 = ~Stivali~
-@83 = ~Gli stivali vengono di solito fatti a mano dai ciabattini. Gli stivali comuni sono fatti utilizzando una forma, ma quelli di buona qualità sono fatti su misura per il piede di chi li indosserà. 
+@83 = ~Gli stivali vengono di solito fatti a mano dai ciabattini. Gli stivali comuni sono fatti utilizzando una forma, ma quelli di buona qualit?sono fatti su misura per il piede di chi li indosser? 
 
 STATISTICHE:
 
