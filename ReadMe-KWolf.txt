@@ -1,12 +1,7 @@
 May 2, 2001
 My email: inintrag@yahoo.com
 
-这个新NPC同时也可以作为一个商店。当你达到一定等级后他会加入你的队伍。同时他也拥有一个商店。如果他加入了你的队伍你将不能进入他的商店。他将出现在五个老酒桶旅馆（AR0511）。如果你让他加入了你的队伍，然后开除他，他会重新回到五个老酒桶。当你使用它的商店时，你会发现他的大部分物品都是未辨识的。那是因为它们来自另一个游戏－－辐射。如果你知道它们是什么，那么购买它们，如果不知道，那么在发现它们是什么的过程中寻找乐趣。
-------------------------------------------------------------------------------------------------------------
-May 2, 2001
-My email: inintrag@yahoo.com
-
-硂穝NPC坝┍讽笷﹚单穦钉ヮ局Τ坝┍狦钉ヮ盢ぃ秈坝┍盢瞷きρ皊表繻AR0511狦琵钉ヮ礛秨埃穦穝きρ皊表讽ㄏノウ坝┍穦祇瞷场だ珇常琌ゼ侩醚ê琌ウㄓ笴栏跨甮狦笵ウ琌ぐ或ê或潦禦ウ狦ぃ笵ê或祇瞷ウ琌ぐ或筁祘い碝т贾届
+This is a new NPC as well as a store. He will join your party if you are a certain level or higher. He also has his own store. You cannot access his store items if he is in your party. There is a way to incorporate that function but I removed it as it doesn't seem realistic to be able to access his store while out in the middle of nowhere. His original spot is upstairs in the Five Flagons Inn(ar0511). If you do use him in your party and then drop him, he will go the the Five Flagons. When using his store, you will notice that most of the items are not identified. That is because they are from another game called Fallout. If you know what they are, then purchase them, if not, have fun discovering what they are!
   
 Special Thanks to:
 http://www.teambg.com/
@@ -30,3 +25,14 @@ DISCLAIMER:
 
 Use these files at your own risk.  If by some weird, fantastical quirk of fate they damage your computer, I cannot be held responsible.  Nor can the website you downloaded them from be held responsible as well.  With that out of the way, if you do have problems, let me know.  I'll try and help.
 My email:  inintrag@yahoo.com
+
+
+VERSION HISTORY
+
+VERSION 1
+- Initial release
+
+VERSION 1.1
+- Added Italian translation by Ilot
+- Added VERSION-flag
+- Updated WeiDU v210
