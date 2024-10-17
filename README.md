@@ -11,6 +11,7 @@ Of course, if you encounter any problems, you can let me know. I'm not a BG2 mod
 Have fun playing.
 
 Following is readme origin mod:
+
 May 2, 2001
 My email: inintrag@yahoo.com
 
