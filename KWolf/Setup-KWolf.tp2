@@ -1,6 +1,6 @@
 BACKUP ~KWolf/Backup~        
 AUTHOR ~inintrag@yahoo.com~ 
-AUTO_TRA ~KWolf/%s~
+AUTO_TRA ~KWolf/TRA/%s~
 LANGUAGE "English" "english"
          ~KWolf/TRA/english/setup.tra~
 LANGUAGE "Russian(translation by aerie.ru)" "russian"
