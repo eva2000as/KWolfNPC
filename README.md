@@ -1,7 +1,7 @@
 
 Due to my poor English, I won't show off. The following is entirely translated from Chinese to English by an AI. And since I've just started using Github... Ahem, please forgive my messing around.
 
-This is a mod for Baldur's Gate 2 SOA called KillWolfNpc. Of course, it can now run on BGEE, thanks to the original author inintrag and all the translators, as well as Badgert who re-uploaded it to SHS. Here is the original file download page on SHS:
+This is a mod for Baldur's Gate 2 SOA called KillWolfNpc. Of course, it can now run on BG2EE and EET, thanks to the original author inintrag and all the translators, as well as Badgert who re-uploaded it to SHS. Here is the original file download page on SHS:
 http://www.shsforums.net/files/file/136-killing-wolf-npc/
 
 It's just a simple EE adaptation upgrade, and now all language files have been modified to UTF-8 encoding. In theory, since the NPC can spawn normally (on the second floor of the Five Flagons Inn in Athkatla Bridge District) and engage in dialogue and trade, I won't change any of the original code, items, images... and so on.
